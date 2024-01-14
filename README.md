@@ -19,6 +19,6 @@
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  -->
 
-# A base repository
+# A Repository for a "template" MotionEye docker setup
 
-A "base" repository for me to use as a template for future repositories... :D
+This is currently under **HEAVY** development. Feel free to contribute, and I'll try my best to add your ideas and contributions as best I can!
