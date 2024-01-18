@@ -60,7 +60,6 @@ class MotionEyeWrapper():
     def run(self):
         pass
 
-
 if __name__ == "__main__":
     wrapper = MotionEyeWrapper()
     wrapper.run()
